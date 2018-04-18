@@ -3,3 +3,4 @@ testing git fetch and merge
 abcd
 test conflict local
 test conflict remote
+1234
