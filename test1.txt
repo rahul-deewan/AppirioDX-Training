@@ -2,3 +2,4 @@ hey first commit (edited from github)
 testing git fetch and merge
 abcd
 test conflict local
+test conflict remote
